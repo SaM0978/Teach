@@ -37,3 +37,7 @@ else: # Agar Diya To Niche Vala Code
         exit()
 
 print('Arree Chalo Finally A Gya') # Finally Me Apne Ghar Puchaygya
+
+from number_plate import license_generator
+
+print(license_generator())
